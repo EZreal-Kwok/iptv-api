@@ -1,5 +1,5 @@
 🕘️更新时间,#genre#
-2025-11-21 11:04:11,http://bxtv.3a.ink/migu.php?id=cctv2$订阅源
+2025-11-21 18:02:07,http://bxtv.3a.ink/migu.php?id=cctv2$订阅源
 
 📺央视频道,#genre#
 CCTV-2,http://bxtv.3a.ink/migu.php?id=cctv2$订阅源
@@ -33,8 +33,8 @@ CCTV-17,http://bxtv.3a.ink/migu.php?id=cctv17$订阅源
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8$订阅源
 湖南卫视,http://satellitepull.cnr.cn/live/wx32hunws/playlist.m3u8$订阅源
 北京卫视,http://satellitepull.cnr.cn/live/wxbtv/playlist.m3u8$订阅源
-湖北卫视,http://112.6.239.227:8207/hls/25/index.m3u8$订阅源
 湖北卫视,http://satellitepull.cnr.cn/live/wx32hubws/playlist.m3u8$订阅源
+湖北卫视,http://112.6.239.227:8207/hls/25/index.m3u8$订阅源
 黑龙江卫视,http://satellitepull.cnr.cn/live/wx32hljws/playlist.m3u8$订阅源
 安徽卫视,http://112.6.239.227:8207/hls/19/index.m3u8$订阅源
 重庆卫视,http://satellitepull.cnr.cn/live/wxcqws/playlist.m3u8$订阅源
@@ -42,27 +42,27 @@ CCTV-17,http://bxtv.3a.ink/migu.php?id=cctv17$订阅源
 东南卫视,http://112.6.239.227:8207/hls/23/index.m3u8$订阅源
 广西卫视,rtmp://live.gxrb.com.cn/hls/a23$订阅源
 广西卫视,http://112.6.239.227:8207/hls/32/index.m3u8$订阅源
-海南卫视,http://112.6.239.227:8207/hls/24/index.m3u8$订阅源
 海南卫视,http://satellitepull.cnr.cn/live/wxhainlyws/playlist.m3u8$订阅源
-河北卫视,http://112.6.239.227:8207/hls/28/index.m3u8$订阅源
+海南卫视,http://112.6.239.227:8207/hls/24/index.m3u8$订阅源
 河北卫视,http://satellitepull.cnr.cn/live/wxhebws/playlist.m3u8$订阅源
+河北卫视,http://112.6.239.227:8207/hls/28/index.m3u8$订阅源
 河南卫视,http://112.6.239.227:8207/hls/31/index.m3u8$订阅源
 吉林卫视,http://112.6.239.227:8207/hls/30/index.m3u8$订阅源
 江苏卫视,https://txmov2.a.kwimgs.com/upic/2023/02/07/12/BMjAyMzAyMDcxMjQ3NDlfNzM5MzQzNzIyXzk1NjcxMTk5ODM5XzBfMw==_b_Bb92095c7df3c98b458dd14abf1d4b575.mp4$订阅源
-江西卫视,http://112.6.239.227:8207/hls/29/index.m3u8$订阅源
 江西卫视,http://satellitepull.cnr.cn/live/wx32jiangxws/playlist.m3u8$订阅源
+江西卫视,http://112.6.239.227:8207/hls/29/index.m3u8$订阅源
 内蒙古卫视,http://satellitepull.cnr.cn/live/wx32nmgws/playlist.m3u8$订阅源
 青海卫视,http://satellitepull.cnr.cn/live/wx32qhws/playlist.m3u8$订阅源
 山东卫视,http://pa.kuangdeng.top:8081/hls/23/index.m3u8$订阅源
 山东卫视,http://pa.kuangdeng.top:8081/hls/23/index.m3u8$订阅源
 山东卫视,http://112.6.239.227:8207/hls/15/index.m3u8$订阅源
+山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8$订阅源
 山西卫视,http://pa.kuangdeng.top:8081/hls/44/index.m3u8$订阅源
 山西卫视,http://112.6.239.227:8207/hls/26/index.m3u8$订阅源
-山西卫视,http://satellitepull.cnr.cn/live/wxssxws/playlist.m3u8$订阅源
-陕西卫视,http://pa.kuangdeng.top:8081/hls/45/index.m3u8$订阅源
 陕西卫视,http://satellitepull.cnr.cn/live/wxsxxws/playlist.m3u8$订阅源
-四川卫视,http://112.6.239.227:8207/hls/27/index.m3u8$订阅源
+陕西卫视,http://pa.kuangdeng.top:8081/hls/45/index.m3u8$订阅源
 四川卫视,http://satellitepull.cnr.cn/live/wxscws/playlist.m3u8$订阅源
+四川卫视,http://112.6.239.227:8207/hls/27/index.m3u8$订阅源
 深圳卫视,http://pa.kuangdeng.top:8081/hls/21/index.m3u8$订阅源
 深圳卫视,http://112.6.239.227:8207/hls/20/index.m3u8$订阅源
 三沙卫视,http://pa.kuangdeng.top:8081/hls/37/index.m3u8$订阅源
