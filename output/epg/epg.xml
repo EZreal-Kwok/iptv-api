@@ -1,5 +1,5 @@
 <?xml version="1.0" ?>
-<tv date="20261120091644 +0800">
+<tv date="20261120180435 +0800">
 	<channel id="CCTV-1">
 		<display-name lang="zh">CCTV-1</display-name>
 	</channel>
@@ -22501,7 +22501,7 @@
 		<title lang="zh">记住乡愁(10)</title>
 	</programme>
 	<programme channel="宁夏卫视" start="20261120041000 +0800" stop="20261120042500 +0800">
-		<title lang="zh">家园(1)</title>
+		<title lang="zh">家园(4)</title>
 	</programme>
 	<programme channel="宁夏卫视" start="20261120042500 +0800" stop="20261120043500 +0800">
 		<title lang="zh">我的幸福密码</title>
@@ -22602,11 +22602,14 @@
 	<programme channel="宁夏卫视" start="20261120222000 +0800" stop="20261120223000 +0800">
 		<title lang="zh">天涯共此诗</title>
 	</programme>
-	<programme channel="宁夏卫视" start="20261120223000 +0800" stop="20261120231700 +0800">
+	<programme channel="宁夏卫视" start="20261120223000 +0800" stop="20261120232000 +0800">
 		<title lang="zh">父母爱情(19)</title>
 	</programme>
-	<programme channel="宁夏卫视" start="20261120231700 +0800" stop="20261120235900 +0800">
-		<title lang="zh">父母爱情(20)</title>
+	<programme channel="宁夏卫视" start="20261120232000 +0800" stop="20261120234000 +0800">
+		<title lang="zh">先导片</title>
+	</programme>
+	<programme channel="宁夏卫视" start="20261120234000 +0800" stop="20261120235900 +0800">
+		<title lang="zh">中医篇孔伯华</title>
 	</programme>
 	<channel id="安徽卫视">
 		<display-name lang="zh">安徽卫视</display-name>
@@ -27506,9 +27509,6 @@
 	</programme>
 	<programme channel="新疆卫视" start="20261119235200 +0800" stop="20261120000300 +0800">
 		<title lang="zh">天涯共此诗</title>
-	</programme>
-	<programme channel="新疆卫视" start="20261120000300 +0800" stop="20261120003300 +0800">
-		<title lang="zh">健康公开课</title>
 	</programme>
 	<programme channel="新疆卫视" start="20261120003300 +0800" stop="20261120010000 +0800">
 		<title lang="zh">真实纪录</title>
@@ -41394,31 +41394,31 @@
 	<programme channel="陕西卫视" start="20261120073000 +0800" stop="20261120082300 +0800">
 		<title lang="zh">薛平贵与王宝钏</title>
 	</programme>
-	<programme channel="陕西卫视" start="20261120082300 +0800" stop="20261120090600 +0800">
+	<programme channel="陕西卫视" start="20261120082300 +0800" stop="20261120091800 +0800">
 		<title lang="zh">薛平贵与王宝钏</title>
 	</programme>
-	<programme channel="陕西卫视" start="20261120090600 +0800" stop="20261120094700 +0800">
+	<programme channel="陕西卫视" start="20261120091800 +0800" stop="20261120095900 +0800">
 		<title lang="zh">薛平贵与王宝钏</title>
 	</programme>
-	<programme channel="陕西卫视" start="20261120094700 +0800" stop="20261120105200 +0800">
+	<programme channel="陕西卫视" start="20261120095900 +0800" stop="20261120110400 +0800">
 		<title lang="zh">薛平贵与王宝钏</title>
 	</programme>
-	<programme channel="陕西卫视" start="20261120105200 +0800" stop="20261120115100 +0800">
+	<programme channel="陕西卫视" start="20261120110400 +0800" stop="20261120120400 +0800">
 		<title lang="zh">薛平贵与王宝钏</title>
 	</programme>
-	<programme channel="陕西卫视" start="20261120115100 +0800" stop="20261120125300 +0800">
+	<programme channel="陕西卫视" start="20261120120400 +0800" stop="20261120130400 +0800">
 		<title lang="zh">薛平贵与王宝钏</title>
 	</programme>
-	<programme channel="陕西卫视" start="20261120125300 +0800" stop="20261120135600 +0800">
+	<programme channel="陕西卫视" start="20261120130400 +0800" stop="20261120135900 +0800">
 		<title lang="zh">薛平贵与王宝钏</title>
 	</programme>
-	<programme channel="陕西卫视" start="20261120135600 +0800" stop="20261120150200 +0800">
+	<programme channel="陕西卫视" start="20261120135900 +0800" stop="20261120151300 +0800">
 		<title lang="zh">武松</title>
 	</programme>
-	<programme channel="陕西卫视" start="20261120150200 +0800" stop="20261120160600 +0800">
+	<programme channel="陕西卫视" start="20261120151300 +0800" stop="20261120161600 +0800">
 		<title lang="zh">武松</title>
 	</programme>
-	<programme channel="陕西卫视" start="20261120160600 +0800" stop="20261120173500 +0800">
+	<programme channel="陕西卫视" start="20261120161600 +0800" stop="20261120173500 +0800">
 		<title lang="zh">武松</title>
 	</programme>
 	<programme channel="陕西卫视" start="20261120173500 +0800" stop="20261120181000 +0800">
